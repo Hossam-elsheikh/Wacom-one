@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Wacom-one/static/css/main.06843b82.css",
-    "main.js": "/Wacom-one/static/js/main.0bf5a19f.js",
+    "main.js": "/Wacom-one/static/js/main.2ebdd46b.js",
     "static/media/primeicons.svg": "/Wacom-one/static/media/primeicons.e1441b135b3ca9ad643c.svg",
     "static/media/kami.png": "/Wacom-one/static/media/kami.b6b4d8c1df9d3f4f80b0.png",
     "static/media/pear.png": "/Wacom-one/static/media/pear.78618ed4d3b9769fdd32.png",
@@ -37,10 +37,10 @@
     "static/media/s5.jpg": "/Wacom-one/static/media/s5.4da169902ab5d4e256c8.jpg",
     "index.html": "/Wacom-one/index.html",
     "main.06843b82.css.map": "/Wacom-one/static/css/main.06843b82.css.map",
-    "main.0bf5a19f.js.map": "/Wacom-one/static/js/main.0bf5a19f.js.map"
+    "main.2ebdd46b.js.map": "/Wacom-one/static/js/main.2ebdd46b.js.map"
   },
   "entrypoints": [
     "static/css/main.06843b82.css",
-    "static/js/main.0bf5a19f.js"
+    "static/js/main.2ebdd46b.js"
   ]
 }
