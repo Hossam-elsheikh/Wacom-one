@@ -9,4 +9,3 @@
 ## Web preview 
 
 ## mobile
- file:///media/hossam/01D7AD9065785600/projects/web/wacom-one/vid/mobile.mp4
