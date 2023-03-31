@@ -1,0 +1,22 @@
+.cont {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    
+    gap: 2rem;
+    padding: 2rem 10rem;
+    width: 100%;
+}
+.cont h2 {
+    color: #616B5F;
+}
+
+.img {
+    width: 100%;
+    height: auto;
+}
+@media (max-width:650px){
+    .cont{
+        padding: 1rem;
+    }
+}

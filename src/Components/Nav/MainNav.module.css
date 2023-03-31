@@ -1,0 +1,33 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2rem;
+    width: 100%;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.356);
+}
+nav img {
+    width: 100px;
+}
+nav ul li {
+    margin-right: 1rem;
+}
+nav a {
+    font-weight: 500;
+    color: gray;
+    font-size: 1.2rem;
+}
+
+@media (max-width:650px){
+    nav{
+        flex-direction: column;
+    }
+    nav a {
+        font-size: 1rem;
+
+    }
+   
+    nav ul {
+        margin-top: 0%;
+    }
+}

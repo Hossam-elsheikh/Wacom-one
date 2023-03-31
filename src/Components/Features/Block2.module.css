@@ -1,0 +1,44 @@
+.cont2 {
+    background-color: #F2F6F7;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 3rem;
+    text-align: center;
+    color: #616B5F;
+}
+.cont2 h2 {
+    font-weight: 300;
+}
+
+.fs { 
+    gap: 4rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.f{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    width: 200px;
+}
+.f h2{
+    color: #2b2c2b;
+
+}
+.f a{
+    color: #379AA0;
+    font-size: .9rem;
+}
+.f img{
+    width: 200px;
+}
+.special {
+    width: 300px;
+    margin-top: 3rem;
+}
+.special img {
+    width: 300px;
+}

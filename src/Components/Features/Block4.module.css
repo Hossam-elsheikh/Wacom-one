@@ -1,0 +1,32 @@
+.cont {
+    background-color: #F2F6F7;
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    text-align: center;
+    color: #616B5F;
+}
+.specs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap:1rem 3rem;
+    
+    padding: 3rem 1rem;
+}
+.spec {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    max-width: 100px;
+}
+.spec img {
+    border-radius: 50%;
+    width: 100px;
+}
+.spec p{
+    color: #379AA0;
+}
