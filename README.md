@@ -8,4 +8,6 @@
 
 ## Web preview 
 ![](https://github.com/Hossam-elsheikh/Wacom-one/blob/main/gifs/web.gif)
-## mobile
+## mobile preview
+![](https://github.com/Hossam-elsheikh/Wacom-one/blob/main/gifs/mobile.gif)
+
