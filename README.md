@@ -7,5 +7,5 @@
 ### Created as a clone to Wacom one promotion landing page
 
 ## Web preview 
-
+![](https://github.com/Hossam-elsheikh/Wacom-one/blob/main/gifs/web.gif)
 ## mobile
